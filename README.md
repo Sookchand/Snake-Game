@@ -51,10 +51,15 @@ Bard may display inaccurate or offensive information that doesn’t represent Go
 
 ## Documentation
 Here are some documentation resources for the technologies mentioned above:
+
     •	Python: Python official documentation: https://docs.python.org/ 
+    
     •	Turtle: Turtle documentation: https://docs.python.org/3/library/turtle.html 
+    
     •	Random: Random documentation: https://docs.python.org/3/library/random.html 
+    
     •	Time: Time documentation: https://docs.python.org/3/library/time.html 
+    
     •	Screen: Screen documentation: https://www.gnu.org/software/screen/manual/screen.html
 
 The Python official documentation is a comprehensive resource for learning about Python. It covers all aspects of the language, from basic syntax to advanced topics such as object-oriented programming and concurrency.
