@@ -26,7 +26,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![snake](https://github.com/Sookchand/Snake-Game/assets/34344439/b7cd1e0d-d6ae-4a11-a74a-8b92f9edbf3a)
+
 
 
 ## Tech Stack
