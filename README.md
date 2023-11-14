@@ -26,8 +26,7 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![snake](https://github.com/Sookchand/Snake-Game/assets/34344439/b7cd1e0d-d6ae-4a11-a74a-8b92f9edbf3a)
-
+![snake_high](https://github.com/Sookchand/Snake-Game/assets/34344439/25883745-a6a9-410b-b45a-e206087010a3)
 
 
 ## Tech Stack
